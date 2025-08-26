@@ -4,4 +4,4 @@
 • I’m interested in game development, modding, and creative software projects  
 • Currently learning and improving myself in C#, C++, AMPL, JavaScript, CSS, Powershell and Unity  
 • Passionate about building unique experiences, especially in strategy and roguelite-style games  
-• You can contact me from the links in my profile.
+• You can contact me from the links and mail in my profile.
