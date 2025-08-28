@@ -2,6 +2,6 @@
 
 • I recently graduated from Dumlupınar University (Türkiye) in Computer Programming  
 • I’m interested in game development, modding, and creative software projects  
-• Currently learning and improving myself in C#, AMPL, JavaScript, CSS, Powershell and Unity  
+• Currently learning and improving myself in C#, C++, Lua, Java, JavaScript, CSS, Powershell and Unity  
 • Passionate about building unique experiences, especially in strategy and roguelite-style games  
 • You can contact me from the links and mail in my profile.
